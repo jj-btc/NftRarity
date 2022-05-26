@@ -1,2 +1,4 @@
 requests~=2.27.1
-git+https://github.com/jj-btc/unamed-utils@dev
+setuptools~=60.2.0
+hexbytes~=0.2.2
+web3~=5.29.1
